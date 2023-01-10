@@ -20,7 +20,7 @@ Current Status:
 
 |Day_Count  | Topic Covered   | Resource Link |
 |--|--|--|
-|0.|--|[Day0](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day0_of%2030DaysOfDatabricks!.md)|
+|0.|Databricks Workspace and Services|[Day0](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day0_of%2030DaysOfDatabricks!.md)|
 | 1. |  | [Day1](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day1_of%2030DaysOfDatabricks!.md) |
 | 2. |  |  |
 | 3.|  |  |
