@@ -22,7 +22,7 @@ Current Status:
 |--|--|--|
 |0.|Databricks Workspace and Services|[Day0](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day0_of%2030DaysOfDatabricks!.md)|
 | 1. | Delta Lake  | [Day1](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day1_of%2030DaysOfDatabricks!.md) |
-| 2. | Relational Entities | [Day2](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day_of%2030DaysOfDatabricks!.md)  |
+| 2. | Data Lake vs Delta Lake | [Day2](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day_of%2030DaysOfDatabricks!.md)  |
 | 3.|  |  |
 | 4. |  |  |
 | 5. |  |  |
