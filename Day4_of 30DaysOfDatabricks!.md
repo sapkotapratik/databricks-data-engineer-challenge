@@ -305,3 +305,20 @@ https://learn.microsoft.com/en-us/azure/architecture/
 For Databricks:
 
 https://learn.microsoft.com/en-us/azure/architecture/browse/?terms=azure%20databricks
+
+![image](https://user-images.githubusercontent.com/24469318/212460800-aa2b8e25-468f-4059-8659-dd52fcf5f18f.png)
+
+![image](https://user-images.githubusercontent.com/24469318/212460809-cfadbb6a-9d77-4dc1-b337-0ef6f1982cfe.png)
+
+![image](https://user-images.githubusercontent.com/24469318/212460818-5d60ac6e-f6e0-45d3-8bd6-81326bf7d581.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/212460827-8304e631-c8aa-4345-9205-9a01ee38eadf.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/212460839-783357c4-ac4f-43df-90f6-61dbbfebd4f5.png)
+
+
+
+
+
