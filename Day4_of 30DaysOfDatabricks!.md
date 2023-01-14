@@ -451,8 +451,43 @@ https://spark.apache.org/docs/latest/api/python/reference/index.html
 
 - And also, if you get data which doesn't conform to what you're expecting, you want process to fail and tell you that there is sth wrong rathe than just infering the schema and carrying on.
 
+https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/data_types.html
+
+Struct type represents your row.
+
+StructFields represents your column
+
+![image](https://user-images.githubusercontent.com/24469318/212464519-820f8a25-9364-4959-ab86-7bbba23e1d0a.png)
 
 
+![image](https://user-images.githubusercontent.com/24469318/212464549-fe8d4058-ba2c-4b4b-a18f-6d6b5f785094.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/212464778-efeb2123-42b6-4ed8-a086-81412512d562.png)
+
+
+
+- This way of selecting columns allow you to make column based function for eg. if you wanted to change the name of the column , you can do it here.
+
+
+![image](https://user-images.githubusercontent.com/24469318/212465026-8432ceeb-2c54-4114-923a-8674bdcb9c2d.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/212465526-1fd744de-118a-4592-85e9-2c636375169f.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/212465538-88b5843d-96b8-42f4-a799-18358aa192eb.png)
+
+![image](https://user-images.githubusercontent.com/24469318/212465654-85929f8c-4b66-406e-8a8d-0c73141cf41c.png)
+
+
+![image](https://user-images.githubusercontent.com/24469318/212465883-b12dd0ec-ee31-447f-bfd5-bb7d3e678ab5.png)
+
+
+Here data is in single partition. We can make it to multiple partitions as well.
+
+
+![image](https://user-images.githubusercontent.com/24469318/212466141-17f002ac-92e7-4ff7-8e99-845c99403449.png)
 
 
 
