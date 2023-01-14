@@ -300,4 +300,8 @@ https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azu
 
 
 
+https://learn.microsoft.com/en-us/azure/architecture/
 
+For Databricks:
+
+https://learn.microsoft.com/en-us/azure/architecture/browse/?terms=azure%20databricks
