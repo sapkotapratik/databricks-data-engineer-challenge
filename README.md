@@ -24,7 +24,7 @@ Current Status:
 | 1. | Delta Lake  | [Day1](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day1_of%2030DaysOfDatabricks!.md) |
 | 2. | Data Lake vs Delta Lake | [Day2](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day2_of%2030DaysOfDatabricks!.md)  |
 | 3.|  Advanced Delta Lake |[Day 3](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day3_of%2030DaysOfDatabricks!.md)  |
-| 4. |  |  |
+| 4. | Formula 1 Project | [Day 4](https://github.com/sapkotapratik/databricks-data-engineer-challenge/blob/main/Day4_of%2030DaysOfDatabricks!.md) |
 | 5. |  |  |
 |  6.|  |  |
 | 7. |  |  |
